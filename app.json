@@ -1,0 +1,17 @@
+{
+  "name": "exampleBot",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/Marycka9/exampleBot"
+    }
+  ]
+}
